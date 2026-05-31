@@ -1,0 +1,33 @@
+body{
+background-image: url("/static/images/Background.png");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+
+
+nav a{
+color:white;
+margin-right:20px;
+text-decoration:none;
+}
+
+.container{
+padding:20px;
+}
+
+input{
+display:block;
+margin:10px 0;
+padding:10px;
+width:300px;
+}
+
+button{
+padding:10px 20px;
+background:green;
+color:white;
+border:none;
+}
